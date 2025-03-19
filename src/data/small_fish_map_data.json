@@ -1,0 +1,550 @@
+[
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:03.369428",
+    "Lat": 48.31143414178667,
+    "Lng": -120.27747170982501,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.01579
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:06.405217",
+    "Lat": 48.31143509560667,
+    "Lng": -120.27747901756251,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.8012
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:09.437993",
+    "Lat": 48.31144010652,
+    "Lng": -120.27751187229376,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.923
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:12.472483",
+    "Lat": 48.31144796616667,
+    "Lng": -120.27751603518125,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 3.295
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:15.506165",
+    "Lat": 48.3114509674,
+    "Lng": -120.27752303240625,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 3.751
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:18.537928",
+    "Lat": 48.31146073476667,
+    "Lng": -120.277583621475,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 7.478
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:21.578553",
+    "Lat": 48.31146343704667,
+    "Lng": -120.2775240687375,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.126
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:24.613366",
+    "Lat": 48.311459342473334,
+    "Lng": -120.277530242525,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 3.478
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:27.650171",
+    "Lat": 48.31144914672,
+    "Lng": -120.27750975618751,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.03117
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:30.681831",
+    "Lat": 48.31144774267333,
+    "Lng": -120.27753094198125,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.001834
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:36.746930",
+    "Lat": 48.31147300566667,
+    "Lng": -120.27754737995001,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.337
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:39.780735",
+    "Lat": 48.31147885086,
+    "Lng": -120.27755151457501,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.718
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:42.816923",
+    "Lat": 48.31148945698666,
+    "Lng": -120.277541726175,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 3.302
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:45.853085",
+    "Lat": 48.31147777532,
+    "Lng": -120.2775270052375,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.004117
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:48.887647",
+    "Lat": 48.311494056773334,
+    "Lng": -120.27753013833751,
+    "Species_Name": "Coho",
+    "Collected": true,
+    "MSE": 2.771
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:51.922510",
+    "Lat": 48.3114995991,
+    "Lng": -120.27752144478126,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.275
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:54.957177",
+    "Lat": 48.31150015142,
+    "Lng": -120.277512028825,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 3.393
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:39:57.990008",
+    "Lat": 48.311497180686665,
+    "Lng": -120.277501473675,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.218
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:01.027366",
+    "Lat": 48.31149562578667,
+    "Lng": -120.27745420025,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 1.515
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:04.057560",
+    "Lat": 48.31148669846,
+    "Lng": -120.27749397505,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.877
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:07.091310",
+    "Lat": 48.31148178546,
+    "Lng": -120.2774891082375,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 3.509
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:10.125191",
+    "Lat": 48.31147285734,
+    "Lng": -120.2774869406375,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.821
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:13.158256",
+    "Lat": 48.31146538364667,
+    "Lng": -120.2774846848,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 3.445
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:16.192533",
+    "Lat": 48.31146134505333,
+    "Lng": -120.27747944040625,
+    "Species_Name": "Coho",
+    "Collected": true,
+    "MSE": 2.862
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:19.227197",
+    "Lat": 48.31145478798667,
+    "Lng": -120.27747343308751,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.347
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:22.262462",
+    "Lat": 48.31144742374,
+    "Lng": -120.27747254510626,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.334
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:25.296591",
+    "Lat": 48.311439773833335,
+    "Lng": -120.2774702826,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.372
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:28.330008",
+    "Lat": 48.3114295059,
+    "Lng": -120.2774746125,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.627
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:31.365380",
+    "Lat": 48.31142400706,
+    "Lng": -120.27745651841876,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.02432
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:34.396885",
+    "Lat": 48.31141512211333,
+    "Lng": -120.27747439021876,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.69
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:37.432882",
+    "Lat": 48.3114173692,
+    "Lng": -120.2774699244875,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 3.232
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:40.466622",
+    "Lat": 48.31141500122666,
+    "Lng": -120.27747977110626,
+    "Species_Name": "Coho",
+    "Collected": true,
+    "MSE": 2.45
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:43.502578",
+    "Lat": 48.311413309686664,
+    "Lng": -120.27747078760626,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.002308
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:46.536927",
+    "Lat": 48.31141634044667,
+    "Lng": -120.277475526575,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.02638
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:49.568166",
+    "Lat": 48.31142130565333,
+    "Lng": -120.2774981345625,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 3.455
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:52.604899",
+    "Lat": 48.31142954733333,
+    "Lng": -120.27747164176876,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.02473
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:55.635419",
+    "Lat": 48.31143277113333,
+    "Lng": -120.27746596946251,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.002649
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:40:58.669355",
+    "Lat": 48.31143769885333,
+    "Lng": -120.27745977971875,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.01986
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:01.702031",
+    "Lat": 48.311440429386664,
+    "Lng": -120.27745534766251,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.003697
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:04.733175",
+    "Lat": 48.31144641622,
+    "Lng": -120.27746911724375,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.981
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:07.769828",
+    "Lat": 48.311453008546664,
+    "Lng": -120.2774487571625,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.01765
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:10.801159",
+    "Lat": 48.31146384426,
+    "Lng": -120.27746146074375,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.096
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:13.837915",
+    "Lat": 48.311458699006664,
+    "Lng": -120.27743643960001,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.464e-12
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:16.871226",
+    "Lat": 48.31146176635333,
+    "Lng": -120.27744351233751,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 5.873e-13
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:19.904998",
+    "Lat": 48.31147935256,
+    "Lng": -120.27744693607501,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.153
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:22.938285",
+    "Lat": 48.31148429760667,
+    "Lng": -120.27744791159375,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.009
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:25.972770",
+    "Lat": 48.31148026734667,
+    "Lng": -120.27744281383751,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 1.176e-11
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:29.007616",
+    "Lat": 48.31148586651334,
+    "Lng": -120.27743161506875,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.007867
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:32.039423",
+    "Lat": 48.31148908265333,
+    "Lng": -120.27743421758751,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 3.214e-11
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:35.073176",
+    "Lat": 48.311510893206666,
+    "Lng": -120.27743013694376,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 1.549
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:38.108934",
+    "Lat": 48.31149408888667,
+    "Lng": -120.27742380874376,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 9.484e-12
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:41.141193",
+    "Lat": 48.31152606514,
+    "Lng": -120.27743552991876,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 1.493
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:44.176439",
+    "Lat": 48.31151219136,
+    "Lng": -120.27744532800001,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.01813
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:47.210644",
+    "Lat": 48.31151716001333,
+    "Lng": -120.27744993528125,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.0187
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:50.246437",
+    "Lat": 48.311519219746664,
+    "Lng": -120.27744919213126,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.782
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:53.272937",
+    "Lat": 48.31156097566,
+    "Lng": -120.2774991819125,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.02373
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:56.313980",
+    "Lat": 48.311531938626665,
+    "Lng": -120.27744542009376,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 2.214e-09
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:41:59.344163",
+    "Lat": 48.3115606714,
+    "Lng": -120.27745516072501,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 1.714
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:42:02.379312",
+    "Lat": 48.311540198706666,
+    "Lng": -120.27748041693125,
+    "Species_Name": "Coho",
+    "Collected": true,
+    "MSE": 3.604e-14
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:42:05.414555",
+    "Lat": 48.31154344308667,
+    "Lng": -120.27748039010001,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.02527
+  },
+  {
+    "Acoustic_Tag": "9ecd",
+    "Date_Time": "2019-05-23T11:42:08.448580",
+    "Lat": 48.31154416592667,
+    "Lng": -120.27748840281251,
+    "Species_Name": "Coho",
+    "Collected": false,
+    "MSE": 0.02629
+  }]
