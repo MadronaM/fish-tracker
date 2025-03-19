@@ -24,3 +24,4 @@ yarn-error.log*
 
 # Ignore virtual environment directory
 venv/
+backend/venv/
