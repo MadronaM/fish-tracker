@@ -16,11 +16,13 @@ def parse_and_wrangle_data():
     collected_fish = set(collected["Tag Code"].astype(str).str.lower().str.strip())
     release_data["Collected"] = release_data["Tag Code"].astype(str).str.lower().str.strip().isin(collected_fish)
 
+    # Clean and aggregate the data for the chart first because map modifies data
+    chart_wrangling(release_data)
+
     # Call the function to clean and aggregate the data for the map
     map_wrangling(release_data, fish_positions)
 
-    # Call the function to clean and aggregate the data for the chart
-    chart_wrangling(release_data)
+    
 
     
 
@@ -43,8 +45,9 @@ def map_wrangling(release_data, fish_positions):
     merged_data["Y_norm"] = (merged_data["Y"] - merged_data["Y"].min()) / (merged_data["Y"].max() - merged_data["Y"].min())
 
     # Scale to a bounding box
-    scale_lat, scale_lon = 0.002, 0.002
-    lake_lat, lake_lon = 48.3114238, -120.2771002
+    # Black Pine Lake 48.3114238, -120.2771002
+    scale_lat, scale_lon = 0.0015, 0.0015
+    lake_lat, lake_lon = 48.3107754, -120.2785910
 
     merged_data["Lat"] = lake_lat + (merged_data["Y_norm"] - 0.5) * scale_lat
     merged_data["Lng"] = lake_lon + (merged_data["X_norm"] - 0.5) * scale_lon
@@ -67,14 +70,15 @@ def map_wrangling(release_data, fish_positions):
 
 
 def chart_wrangling(release_data):
+    release = release_data.copy()
     # Add a new column to check if Acoustic Tag exists (True if it exists, False otherwise)
-    release_data['Has_Acoustic_Tag'] = release_data['Acoustic Tag'].notna()
+    release['Has_Acoustic_Tag'] = release['Acoustic Tag'].notna()
 
     # Aggregate the data by Acoustic Tag status and Collection status (collected or not)
-    AT_chart = release_data.groupby(['Has_Acoustic_Tag', 'Collected']).size().reset_index(name='Count')
+    AT_chart = release.groupby(['Has_Acoustic_Tag', 'Collected']).size().reset_index(name='Count')
 
     # Aggregate the data by Species and Acoustic Tag status (collected or not)
-    species_chart = release_data.groupby(['Species Name', 'Collected']).size().reset_index(name='Count')
+    species_chart = release.groupby(['Species Name', 'Collected']).size().reset_index(name='Count')
 
      # You can now save both charts in different modes (e.g., as separate JSON files)
     AT_chart.to_json("../public/data/AT_chart_data.json", orient="records")

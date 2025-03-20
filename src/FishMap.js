@@ -136,7 +136,8 @@ const FishMap = () => {
         </div>
         
         <div className="map-container">
-          <MapContainer center={[48.3114238, -120.2771002]} zoom={17.75} maxZoom={21} style={{ height: "100%", width: "100%" }}>
+            {/*  [48.3114238, -120.2771002]*/}
+          <MapContainer center={[48.3107754, -120.2785910]} zoom={17.75} maxZoom={21} style={{ height: "100%", width: "100%" }}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" attribution="&copy; OpenStreetMap contributors" />
 
             {[...filteredFishData].map((fish, index) => {
