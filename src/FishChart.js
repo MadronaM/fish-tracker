@@ -11,10 +11,8 @@ const FishChart = () => {
   useEffect(() => {
     const fetchChartData = async () => {
       try {
-        // Fetching species data and acoustic tag data
         const speciesData = await fetch("/data/species_chart_data.json").then((res) => res.json());
         const acousticTagData = await fetch("/data/AT_chart_data.json").then((res) => res.json());
-        // Storing the fetched data in state
         setChartData({ species: speciesData, acousticTag: acousticTagData });
       } catch (error) {
         console.error("Error fetching chart data:", error);
@@ -85,7 +83,7 @@ const FishChart = () => {
           .attr("fill", colorScale(collected))
           .on("mouseover", (event) => {
             const percentage = ((count / totalCount) * 100).toFixed(1);
-            tooltip.style("visibility", "visible").html(`Percentage: ${percentage}%`);
+            tooltip.style("visibility", "visible").html(`${percentage}% of released fish`);
           })
           .on("mousemove", (event) => {
             tooltip.style("top", `${event.pageY - 10}px`).style("left", `${event.pageX + 10}px`);  // Tooltip follows mouse
@@ -131,7 +129,7 @@ const FishChart = () => {
 
   return (
     <div className="chart-container">
-      <div className="chart-title">Fish Collection Analysis Fish by {xKey === "Species Name" ? "Species Type" : "Acoustic Tag Status"}</div>
+      <div className="chart-title">Fish Collection Analysis by {xKey === "Species Name" ? "Species Type" : "Acoustic Tag Status"}</div>
       <div className="controls-container">
         <div ref={chartRef} className="map-container chart-area"></div>
         {/* Sidebar with dropdown to select data type (species or acoustic tag) */}
